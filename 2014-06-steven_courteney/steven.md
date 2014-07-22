@@ -181,3 +181,6 @@ Insofar as it is incredibly difficult to inject the DBC culture and desirable
 performance characteristics via text, these personality injections, to my mind,
 are essential for creating and facilitating a vibrant culture that is more
 **convergent** than **divergent**.
+
+Finally, while we didn't spend much time together I really liked working with
+Courtney to discuss our observations and experiences.
